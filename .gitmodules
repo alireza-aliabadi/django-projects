@@ -1,0 +1,9 @@
+[submodule "multi-tenant-saas-application"]
+	path = multi-tenant-saas-application
+	url = git@github.com:alireza-aliabadi/multi-tenant-saas-application.git
+[submodule "e-commerce-platform"]
+	path = e-commerce-platform
+	url = git@github.com:alireza-aliabadi/e-commerce-platform.git
+[submodule "real-time-communication-app"]
+	path = real-time-communication-app
+	url = git@github.com:alireza-aliabadi/real-time-communication-app.git
