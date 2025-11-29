@@ -7,3 +7,6 @@
 [submodule "real-time-communication-app"]
 	path = real-time-communication-app
 	url = git@github.com:alireza-aliabadi/real-time-communication-app.git
+[submodule "crowdfunding-platform"]
+	path = crowdfunding-platform
+	url = git@github.com:alireza-aliabadi/django-crowdfunding-platform.git
